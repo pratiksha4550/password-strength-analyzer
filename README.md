@@ -1,23 +1,14 @@
-Password Strength Analyzer
+# Password Strength Analyzer
 
-Project Description
+A simple Password Strength Analyzer built using HTML, CSS, and JavaScript.
 
-This project analyzes the strength of a password and provides feedback to users.
+## Features
+- Checks password strength
+- Weak, Medium, Strong detection
+- Suggests improvements
+- Responsive design
 
-Features
-
-- Checks password length
-- Detects uppercase and lowercase letters
-- Detects numbers
-- Detects special characters
-- Displays password strength (Weak, Medium, Strong)
-
-Technologies Used
-
+## Technologies Used
 - HTML
 - CSS
 - JavaScript
-
-Author
-
-Pratiksha Shinde
